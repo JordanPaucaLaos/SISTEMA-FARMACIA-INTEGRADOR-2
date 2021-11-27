@@ -1,4 +1,4 @@
-# Sistema_Farmacia
+# Sistema Farmacia
  Sistema para una farmacia - Integrador 2
  
  Alumnos: 
